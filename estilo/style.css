@@ -31,8 +31,7 @@ main {
 input {
     margin: auto;
     margin-bottom: 20px;
-
-    width: 250px;
+    width: 90%;
     padding: 6px;
     font-size: 1.5em;
     border-radius: 30px;
